@@ -18,4 +18,8 @@ abcabc
 
     for line in open('xxx.txt'):
         print line
+        
+abcabc
+----
+abcabc
 
