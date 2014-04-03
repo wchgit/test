@@ -14,4 +14,7 @@ abcabc
 + edf
 + ghi
 
+abcabc
+    for line in open('xxx.txt'):
+        print line
 
