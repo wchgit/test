@@ -20,6 +20,6 @@ abcabc
         print line
         
 abcabc
-----
+____
 abcabc
 
